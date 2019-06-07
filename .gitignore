@@ -1,0 +1,11 @@
+# project secrets!
+.env
+
+# enviroment junk
+node_modules/
+
+# editor junk
+.vscode
+*.swo
+*.swp
+
